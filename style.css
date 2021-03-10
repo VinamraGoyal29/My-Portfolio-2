@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(13, 0, 196);
+}
+
+
+#aboutme {
+    color : red;
+}
+
+.header{
+background-color: yellow;
+display : flex;
+justify-content: space-around;
+}
+
+.menu{
+    background-color:aquamarine;
+}
+
+.grid{
+    background-color: cadetblue;
+    display : flex;
+    justify-content: space-around;
+}
+
+.item{
+    background-color: cornflowerblue;
+}
